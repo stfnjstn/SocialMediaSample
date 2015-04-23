@@ -7,7 +7,9 @@ http://developerplayground.net
 
 This GitHub repository contains the SourceCode for my social media integration tutorial: http://developerplayground.net/?p=6
 
-GitHub repository link: https://github.com/stfnjstn/SocialMediaIntegration
+![Screenshot](http://developerplayground.net/wp-content/uploads/2015/03/Screen-2BShot-2B2015-02-26-2Bat-2B23.09.39.png)
+
+GitHub repository link: https://github.com/stfnjstn/SocialMediaSample
 
 If you want to support me, please download my App. I use it to create my tutorials: https://itunes.apple.com/us/app/yet-another-spaceshooter/id949662362?mt=8
 
