@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3EA75DCF-A7A4-44F9-B472-EE79BC39CC3A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SocialMediaIntegration</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3173FA649FA27685845ECDCB29C4FDEB9D2722AB</key>
+		<string>https://github.com/stfnjstn/SocialMediaIntegration.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SocialMediaIntegration.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3173FA649FA27685845ECDCB29C4FDEB9D2722AB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/stfnjstn/SocialMediaIntegration.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3173FA649FA27685845ECDCB29C4FDEB9D2722AB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3173FA649FA27685845ECDCB29C4FDEB9D2722AB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SocialMediaIntegration</string>
+		</dict>
+	</array>
+</dict>
+</plist>
